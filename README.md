@@ -117,3 +117,14 @@ For rapid grading and demonstration, the login window includes 1-click test cred
 5. Set the build configuration to **Debug | Any CPU**.
 6. Press **F5** or click **Start** to run the application.
 7. All dependencies (`MySqlConnector.dll`, etc.) are bundled directly in the `lib\` directory with `<HintPath>` references, guaranteeing a build with **0 errors and 0 missing dependencies**.
+
+## Here are some pictures of the application UI (User Interface): 
+
+<img width="1561" height="986" alt="Screenshot 2026-11-20 004146" src="https://github.com/user-attachments/assets/783ee794-53cf-4c5d-b83b-30dc1f4147cd" />
+<img width="1561" height="992" alt="Screenshot 2026-11-20 004000" src="https://github.com/user-attachments/assets/2c0a858c-0d1a-41a9-96c2-9d5828fddcf5" />
+<img width="1546" height="991" alt="Screenshot 2026-11-20 003937" src="https://github.com/user-attachments/assets/fe79c59e-be4c-48cf-aa36-e35b8df57a59" />
+<img width="1562" height="996" alt="Screenshot 2026-11-20 003921" src="https://github.com/user-attachments/assets/7325362c-6b73-4679-b26e-a8c39f1be252" />
+<img width="1547" height="880" alt="Screenshot 2026-11-20 003911" src="https://github.com/user-attachments/assets/c9894ecb-9072-4e5c-a1d9-d03d8b75aca3" />
+<img width="1554" height="977" alt="Screenshot 2026-11-20 003839" src="https://github.com/user-attachments/assets/e2709c15-2c57-4f37-b368-1f5b857b7f48" />
+<img width="1189" height="773" alt="Screenshot 2026-11-20 003813" src="https://github.com/user-attachments/assets/a9682e1f-42cd-46b1-a077-da92a34380c1" />
+
