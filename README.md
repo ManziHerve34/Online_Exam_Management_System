@@ -3,7 +3,7 @@
 **Developer Name:** Manzi Herve  
 **Student ID:** 24605  
 **Course:** DotNet  
-**Group:** GROUP A  
+**Group:** GROUP A 
 **Platform:** C# Windows Forms (.NET Framework 4.8), Visual Studio IDE  
 **Database:** XAMPP MySQL / MariaDB (Port 3306, Database: `online_exams_db`)  
 
