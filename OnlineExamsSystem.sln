@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamsSystem", "OnlineExamsSystem.csproj", "{A83F11E5-47F1-44B9-A2D6-8E3162C4E9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83F11E5-47F1-44B9-A2D6-8E3162C4E9C1}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{A83F11E5-47F1-44B9-A2D6-8E3162C4E9C1}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{A83F11E5-47F1-44B9-A2D6-8E3162C4E9C1}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{A83F11E5-47F1-44B9-A2D6-8E3162C4E9C1}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
